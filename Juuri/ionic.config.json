@@ -1,0 +1,7 @@
+{
+  "name": "Juuri",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
